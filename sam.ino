@@ -1,16 +1,3 @@
-/***************************************************
-*
-* For 32x16 RGB LED matrix.
-*
-* @author lg.gang
-* @version  V1.0
-* @date  2016-10-28
-*
-* GNU Lesser General Public License.
-* See <http://www.gnu.org/licenses/> for details.
-* All above must be included in any redistribution
-* ****************************************************/
-
 #include <Adafruit_BusIO_Register.h>
 #include <Adafruit_I2CDevice.h>
 #include <Adafruit_I2CRegister.h>
