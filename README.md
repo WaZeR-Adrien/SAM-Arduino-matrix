@@ -9,10 +9,15 @@ Toutes les images sont disponibles dans le dossier "[images](images)".
 
 # Table des matières
 
-1. Présentation
-2. Composants nécessaires
-3. Schéma de câblage
-4. Contributeurs
+* [Présentation](#présentation)
+* [Mise en place](#mise-en-place)
+  * [Composants nécessaires](#composants-nécessaires)
+  * [Schéma de câblage](#schéma-de-câblage)
+  * [Code Arduino](#code-arduino)
+    * [Librairies utilisées](#librairies-utilisées)
+    * [Algorithme](#algorithme)
+* [Sources](#sources)
+* [Contributeurs](#contributeurs)
 
 # Présentation
 
